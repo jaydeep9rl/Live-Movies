@@ -1,0 +1,2 @@
+# Live-Movies
+Live Movies gives you instant access to our complete database of latest movies all time.  Upon launch, present the user with a grid arrangement of movie posters. Allow the user to change sort order via a setting: the sort order can be by most popular, or by highest rated. Allow the user to tap on a movie poster and transition to a details screen with additional information such as: original title movie poster image thumbnail a plot synopsis user rating release date
